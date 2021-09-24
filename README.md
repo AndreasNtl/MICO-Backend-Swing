@@ -1,4 +1,4 @@
-# controllerServer
+# Controller Server
 
 Project Name: MiCo
 Developers:
